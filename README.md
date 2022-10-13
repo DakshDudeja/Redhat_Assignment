@@ -2,9 +2,11 @@
 
 This project has 3 api's of Pizza Delivery System.
 
-Main file - app.py
-Publisher - sender.py
-Subscriber- receiver.py
+Main file -> app.py.
+
+Publisher -> sender.py
+
+Subscriber -> receiver.py
 
 1. Welcome API
     Path - /welcome
